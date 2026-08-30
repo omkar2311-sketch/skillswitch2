@@ -1,19 +1,19 @@
-# @babel/helper-plugin-utils
+# @babel/template
 
-> General utilities for plugins to use
+> Generate an AST from a string template.
 
-See our website [@babel/helper-plugin-utils](https://babeljs.io/docs/babel-helper-plugin-utils) for more information.
+See our website [@babel/template](https://babeljs.io/docs/babel-template) for more information or the [issues](https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20template%22+is%3Aopen) associated with this package.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/helper-plugin-utils
+npm install --save-dev @babel/template
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/helper-plugin-utils
+yarn add @babel/template --dev
 ```
